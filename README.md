@@ -9,3 +9,5 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 [官方的中文描述文件 看什么呢 快戳我呀](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/README_CN.md)
+
+![](https://github.com/Yidadaa/ChatGPT-Next-Web)
