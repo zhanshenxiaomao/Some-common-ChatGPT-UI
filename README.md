@@ -12,4 +12,3 @@
 
 官方仓库链接
 
-https://github.com/Yidadaa/ChatGPT-Next-Web
