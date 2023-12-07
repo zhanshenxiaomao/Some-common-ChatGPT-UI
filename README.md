@@ -4,9 +4,14 @@
 
 一键免费部署你的私人 ChatGPT 网页应用。
 
+[![Web][Web-image]][web-url]
+[![Windows][Windows-image]][download-url]
+[![MacOS][MacOS-image]][download-url]
+[![Linux][Linux-image]][download-url]
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web) 
 
-使用本仓库提供的vercel一键部署按钮不保证是最新的
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
