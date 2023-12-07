@@ -10,5 +10,5 @@
 
 [官方的中文描述文件 看什么呢 快戳我呀](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/README_CN.md)
 
-官方仓库链接
+[点我访问ChatGPT-Next-Web官方仓库](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
