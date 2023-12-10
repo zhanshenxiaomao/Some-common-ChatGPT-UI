@@ -29,3 +29,4 @@ LobeChat 是开源的高性能聊天机器人框架，支持语音合成、多�
 | [实时天气](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-08-12**</sup> | [lobehub/chat-plugin-realtime-weather](https://github.com/lobehub/chat-plugin-realtime-weather) | 获取实时天气信息<br/>`天气` `实时`           |
 
 [点我查看官方仓库](https://github.com/lobehub/lobe-chat)
+[简体中文](https://github.com/lobehub/lobe-chat/blob/main/README.zh-CN.md)
