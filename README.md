@@ -21,5 +21,3 @@
 
 LobeChat 是开源的高性能聊天机器人框架，支持语音合成、多模态、可扩展的（[Function Call][fc-link]）插件系统。<br/> 支持一键免费部署私人 ChatGPT/LLM 网页应用程序。
 
-[English](./README.md) · **简体中文** · [更新日志](./CHANGELOG.md) · [文档][github-wiki-link] · [报告问题][github-issues-link] · [请求功能][github-issues-link]
-
