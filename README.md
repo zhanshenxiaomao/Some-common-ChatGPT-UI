@@ -25,6 +25,7 @@ LobeChat 是开源的高性能聊天机器人框架，支持语音合成、多�
 
 <!-- SHIELD GROUP -->
 
+
 [![][github-release-shield]][github-release-link]
 [![][docker-release-shield]][docker-release-link]
 [![][vercel-shield]][vercel-link]
