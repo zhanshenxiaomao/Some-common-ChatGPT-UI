@@ -30,3 +30,5 @@ LobeChat 是开源的高性能聊天机器人框架，支持语音合成、多�
 
 [点我查看官方仓库](https://github.com/lobehub/lobe-chat)
 [简体中文](https://github.com/lobehub/lobe-chat/blob/main/README.zh-CN.md)
+
+懒得写了自己点进去看吧 https://github.com/ztjhz/BetterChatGPT
